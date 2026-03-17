@@ -1,10 +1,12 @@
 # Job Form Filler
 
-**网申秋招一键填表工具** -- Chrome 浏览器扩展
+> Chrome extension to autofill job application forms. Open-source, privacy-first, works on any recruitment website.
 
-将简历数据集中管理，打开任意招聘网站，点击字段按钮即可自动填入，告别反复复制粘贴。
+**网申秋招一键填表工具** -- 开源 Chrome 浏览器扩展，一键自动填写招聘网站表单。
 
-适用于校招、社招、实习等各类网申场景。
+将简历数据集中管理，打开任意招聘网站（牛客、智联、BOSS直聘、企业校招官网等），点击字段按钮即可自动填入，告别反复复制粘贴。适用于校招、社招、实习等各类网申场景。完全本地运行，不上传任何数据，隐私安全。
+
+**如果这个工具对你有帮助，请点一下右上角的 Star 支持一下，让更多求职同学看到。**
 
 ---
 
